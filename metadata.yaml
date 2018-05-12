@@ -1,0 +1,31 @@
+_repo: Guide-to-Yosemitethe-adjacent-region_40360
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40360-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hall, Ansel F. (Ansel Franklin)
+    aliases:
+    - Hall, A. F. (Ansel Franklin)
+    - Hall, Ansel Franklin
+    birthdate: 1894
+    deathdate: 1962
+    gutenberg_agent_id: '40569'
+    url: http://www.gutenberg.org/2009/agents/40569
+description: ''
+gutenberg_issued: '2012-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40360'
+  lccn: '20014451'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yosemite Valley (Calif.) -- Guidebooks'
+- !lcc 'F850.5'
+title: "Guide to Yosemite\r\nA handbook of the trails and roads of Yosemite valley\
+  \ and the adjacent region"
+url: http://www.gutenberg.org/ebooks/40360
